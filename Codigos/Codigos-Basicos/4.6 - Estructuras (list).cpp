@@ -30,6 +30,7 @@ int main (){
     9 7 5 3 1 2 4 6 8 10
         ^
     */
+    ///eliminamos el 3er dato con el puntero del iterador
     it=lista.erase(it);
     /*
     9 7 X 3 1 2 4 6 8 10
