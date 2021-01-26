@@ -1,5 +1,10 @@
 # Guia de C++
-[![N|Solid](https://github.com/edanv1401/Guia-C-Basico/blob/main/Versiones%20de%20la%20guia/Logos/resizeImgCPP.png)](https://github.com/edanv1401/Guia-C-Basico)
+# Porque realizar la guia
+
+Esta guia es creada a partir de mis experiencias como programador competitivo de la Universidad ECCI , aprendizaje adquirido de varios (libros , guias,diferentes competencias de programacion,entrenamiendo GPC e internet) , por lo que muestro de una manera sencilla como funciona la funcion , objeto , libreria y demas .todo esto apoyado siempre que es posible con codigo
+Con esta guia busco mejorar el nivel de programacion del lector , los lectores gracias a este github tiene un apoyo mas ademas de la guia , por lo 
+que es mas facil acceder a algunos de los codigos que se encuentran en la guia , tambien se encuentra todo el proceso desde las primeras versiones y diferentes logos de la misma.
+
 -
 Esta guía tiene como finalidad enseñar el lenguaje de C++ ,empezando con los mas basico (entrada de datos, distinguir los tipos de datos,conocer algunas de las palabras reservadas , ciclos , condicionales) ,y terminando en un punto intermedio del lenguaje con la capacidad de poder conocer
   - La sintaxis del lenguaje
@@ -58,7 +63,3 @@ int main (){
     cout<<pi<<"\n";
 }
 ```
-# Porque realizar la guia
-
-Esta guia es creada a partir de mis experiencias como programador competitivo de la Universidad ECCI , aprendizaje adquirido de varios (libros , guias e internet) , por lo que muestro de una manera sencilla como funciona la funcion , objeto , libreria y demas .todo esto apoyado siempre que es posible con codigo
-Con esta guia busco mejorar el nivel de programacion del lector , ademas te apoyarse en partes teoricas y practicas.
