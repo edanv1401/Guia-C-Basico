@@ -1,3 +1,4 @@
-./vscode
+vscode/
 *.exe
-tempCodeRunnerFile.cpp
+Codigos/Codigos-Basicos/tempCodeRunnerFile.cpp
+Codigos/Programacion Orientada A Objetos/tempCodeRunnerFile.cpp
