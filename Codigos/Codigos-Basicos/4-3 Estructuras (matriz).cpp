@@ -9,7 +9,7 @@ int main(){
     for(int i=0;i<n;i++){
         for(int j=0;j<n;j++){
             matriz[i][j]=cont++;
-            matriz_V[i].push_back(cont);
+            matriz_V[i].push_back(cont-1);
         }
     }
     for(int i=0;i<n;i++){
@@ -18,6 +18,7 @@ int main(){
         }
         cout<<endl;
     }
+    cout<<"------------"<<endl;
     for(int i=0;i<n;i++){
         for(int j=0;j<n;j++){
             cout<<matriz_V[i][j]<<" ";
