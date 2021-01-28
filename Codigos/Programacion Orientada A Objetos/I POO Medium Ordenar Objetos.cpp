@@ -8,6 +8,7 @@ struct person{
 bool order(person a,person b){
     return a.edad<b.edad;
 }
+
 int main(){
     vector<person>personas;
     personas.push_back({"Juan",25});
